@@ -1,6 +1,6 @@
 # Javendar
 Javendar is a highly graphical and user-friendly calendar application developed for booking labs, laptops and tablets for use by teachers
-in their classes for learning purposes. Since most teachers don't know which form of tehcnology is the most appropriate for their purpose,
+in their classes for learning purposes. Since most teachers don't know which form of technology is the most appropriate for their purpose,
 the calendar application asks them several questions including type of usage, time and duration of usage and suggests the user the best
 lab to book which meet the requirements for their use and is also not yet booked by another teacher. There is also an area to search
 through the various technologies available within the school and a brief description of each technology. Furthermore, each teacher has
